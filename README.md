@@ -1,2 +1,3 @@
 # hello-world
-Initialization
+Initialization.
+This is the first GitHub trial. 
